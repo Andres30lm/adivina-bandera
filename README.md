@@ -6,9 +6,9 @@
 Cada ronda muestra una bandera y tres opciones posibles. El jugador gana puntos por cada respuesta correcta y puede seguir jugando tantas rondas como desee.
 
 ## Integrantes del Grupo
-- 🎓 Ana Gómez – Diseño de interfaz (CSS) y estructura HTML.
-- 🧠 Rodrigo Ferreira – Lógica del juego en JavaScript.
-- 🛠️ Camila Rivas – Carga de datos (JSON), organización en Trello y documentación (README.md).
+- 🎓 Cristhian Morales - Diseño de interfaz (CSS) y estructura HTML.
+- 🧠 Andrés Martinez – Lógica del juego en JavaScript.
+- 🛠️ Alvaro Alarcón – Carga de datos (JSON), organización en Trello y documentación (README.md).
 
 ## Tareas realizadas
 - Mostrar una bandera aleatoria al cargar el juego.
