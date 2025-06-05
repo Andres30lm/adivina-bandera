@@ -23,4 +23,4 @@ Cada ronda muestra una bandera y tres opciones posibles. El jugador gana puntos 
 
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/adivina-bandera.git
+   git clone https://github.com/Andres30lm/adivina-bandera.git
