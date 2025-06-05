@@ -1,0 +1,50 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: #f4f4f4;
+}
+
+.contenedor {
+  margin: 2rem auto;
+  max-width: 500px;
+  padding: 1rem;
+  background: white;
+  border-radius: 10px;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
+
+#bandera {
+  width: 200px;
+  height: auto;
+  margin: 1rem 0;
+}
+
+#opciones button {
+  display: block;
+  margin: 0.5rem auto;
+  padding: 0.5rem 1rem;
+  border: none;
+  background-color: #3498db;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#opciones button:hover {
+  background-color: #2980b9;
+}
+
+#siguiente {
+  margin-top: 1rem;
+  padding: 0.5rem 1rem;
+  background-color: #2ecc71;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#resultado {
+  font-weight: bold;
+  margin-top: 1rem;
+}
